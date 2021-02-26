@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
 
   selectedItemText: {
     fontSize: 20,
-    fontWeight: 'bold',
+    fontWeight: '100',
     color: '#000',
   } as any,
 

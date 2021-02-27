@@ -5,7 +5,7 @@ import Cascader from '../picker/Cascader';
 import {
   CascaderDataItem,
   CascaderProps,
-} from 'components/picker/interface/CascaderTypes';
+} from 'src/picker/interface/CascaderTypes';
 import {Omit} from 'utility-types';
 
 const innerData = require('./data.json');

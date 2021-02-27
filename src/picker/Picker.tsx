@@ -26,7 +26,7 @@ class Picker extends React.Component<ScrollPickerProps, {}> {
 
   render() {
     return (
-      <ScrollPicker {...this.props} itemStyle={{padding: 8}}>
+      <ScrollPicker {...this.props} itemStyle={{paddingVertical: 8}}>
         {React.Children.map(this.props.children, (c: any) => {
           return (
             <PickerItem

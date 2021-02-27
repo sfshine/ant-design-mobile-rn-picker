@@ -10,7 +10,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@react-native-picker/picker": "^1.9.11",
     "array-tree-filter": "^2.1.0",
     "prettier": "^2.2.1",
     "react": "16.13.1",

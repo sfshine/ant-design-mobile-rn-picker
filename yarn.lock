@@ -1169,11 +1169,6 @@
   resolved "https://registry.npm.taobao.org/@react-native-community/eslint-plugin/download/@react-native-community/eslint-plugin-1.1.0.tgz#e42b1bef12d2415411519fd528e64b593b1363dc"
   integrity sha1-5Csb7xLSQVQRUZ/VKOZLWTsTY9w=
 
-"@react-native-picker/picker@^1.9.11":
-  version "1.9.11"
-  resolved "https://registry.npm.taobao.org/@react-native-picker/picker/download/@react-native-picker/picker-1.9.11.tgz#490c752417c17d687e2941659b3c0bff9cb79b83"
-  integrity sha1-SQx1JBfBfWh+KUFlmzwL/5y3m4M=
-
 "@sinonjs/commons@^1.7.0":
   version "1.8.2"
   resolved "https://registry.npm.taobao.org/@sinonjs/commons/download/@sinonjs/commons-1.8.2.tgz#858f5c4b48d80778fde4b9d541f27edc0d56488b"
